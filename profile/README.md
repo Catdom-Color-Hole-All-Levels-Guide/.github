@@ -1,6 +1,6 @@
 # Catdom Color Hole All Levels Guide & Walkthrough 🐱
 
-Welcome to the official GitHub organization for [Catdom Level Guide](https://catdomlevel.com/).
+Welcome to the official GitHub organization for [Catdom Color Hole Level Guide](https://catdomlevel.com/).
 
 Get fast level walkthroughs, color hole solutions, and quick puzzle answers for every Catdom stage.
 
